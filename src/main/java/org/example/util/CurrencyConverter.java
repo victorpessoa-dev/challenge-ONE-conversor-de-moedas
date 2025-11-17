@@ -1,0 +1,1 @@
+package org.example.util;public class CurrencyConverter {    public static double convert(double value, double rate){        return value * rate;    }}
